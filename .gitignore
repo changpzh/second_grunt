@@ -1,0 +1,9 @@
+coverage
+node_modules
+npm-debug.log
+.idea/**
+*.swp
+public/
+reports
+testResults/
+.vscode/
